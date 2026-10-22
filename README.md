@@ -3,4 +3,4 @@
 یہ میرا پرسنل پورٹ فولیو ہے۔
 
 ### 📄 Download CV
-[⬇️ Download My CV (PDF)](./CV.pdf)
+[⬇️ Download My CV (PDF)](./cv.pdf)
